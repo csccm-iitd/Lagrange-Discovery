@@ -7,20 +7,20 @@ This repository contains the python codes of the paper
 ![Lagrangian Discovery](framework.jpg)
 
 # Files
-  + `1) lagrange_harmonic.py` This code is for discovering Lagrangian of Harmonic oscilator.
-  + `1) lagrange_forced.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) lagrange_pendulam.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) lagrange_3DOF.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) lagrange_molecule.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) lagrange_wave.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) lagrange_Blade.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) lagrange_NS.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `1) utils.py` This code contains useful functions for sparse regression.
-  + `1) utils_data.py` This code contains useful functions for data-generation for ODEs.
-  + `1) utils_data_identified.py` This code contains useful functions for data-generation for ODEs.
-  + `1) utils_data_pde.py` This code contains useful functions for data-generation for PDEs.
-  + `1) case_generalization.py` This code is for the case study of 30-link atomic chain.
-  + `1) beam3fun.py` This code contains functions for Euler-Bernoulli beam simulation.
+  + `lagrange_harmonic.py` This code is for discovering Lagrangian of Harmonic oscilator.
+  + `lagrange_forced.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_pendulam.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_3DOF.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_molecule.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_wave.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_Blade.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_NS.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `utils.py` This code contains useful functions for sparse regression.
+  + `utils_data.py` This code contains useful functions for data-generation for ODEs.
+  + `utils_data_identified.py` This code contains useful functions for data-generation for ODEs.
+  + `utils_data_pde.py` This code contains useful functions for data-generation for PDEs.
+  + `case_generalization.py` This code is for the case study of 30-link atomic chain.
+  + `beam3fun.py` This code contains functions for Euler-Bernoulli beam simulation.
 
 # BibTex
 If you take help of our codes, please cite us at,

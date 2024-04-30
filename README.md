@@ -8,13 +8,13 @@ This repository contains the python codes of the paper
 
 # Files
   + `lagrange_harmonic.py` This code is for discovering Lagrangian of Harmonic oscilator.
-  + `lagrange_forced.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `lagrange_pendulam.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `lagrange_3DOF.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `lagrange_molecule.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `lagrange_wave.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `lagrange_Blade.py` This code is for discovering Lagrangian of 1D Burgers' equation.
-  + `lagrange_NS.py` This code is for discovering Lagrangian of 1D Burgers' equation.
+  + `lagrange_forced.py` This code is for discovering Lagrangian of Harmonic oscillator with forced excitation.
+  + `lagrange_pendulam.py` This code is for discovering Lagrangian of pendulum.
+  + `lagrange_3DOF.py` This code is for discovering Lagrangian of 3DOF oscillator.
+  + `lagrange_molecule.py` This code is for discovering Lagrangian of tri-atomic molecule.
+  + `lagrange_wave.py` This code is for discovering Lagrangian of wave equation.
+  + `lagrange_Blade.py` This code is for discovering Lagrangian of Euler-Bernoulli beam.
+  + `lagrange_NS.py` This code is for discovering Lagrangian of Navier-Stokes equation.
   + `utils.py` This code contains useful functions for sparse regression.
   + `utils_data.py` This code contains useful functions for data-generation for ODEs.
   + `utils_data_identified.py` This code contains useful functions for data-generation for ODEs.

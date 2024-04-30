@@ -1,4 +1,4 @@
-# Lagrange_Discovery_CPC
+# Lagrange Discovery
 Discovering interpretable Lagrangian of dynamical systems from data
 
 This repository contains the python codes of the paper 
